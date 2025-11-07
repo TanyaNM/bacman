@@ -1,0 +1,22 @@
+body{
+  font-family: Comic Sans MS;
+  color: white;
+  background-color: gray;
+  
+}
+header{
+    text-align: center;
+    padding: 5px;
+    background-color: Red;
+}
+main{
+    background-color: black;
+    text-align: center;
+}
+Footer{
+    background-color: darkred;
+    padding: 10px;
+    font-style: none;
+}
+
+/*Ні.*/
